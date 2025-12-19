@@ -136,7 +136,7 @@ exit()
 ### 5️⃣ Run the Streamlit Application
 
 ```bash
-python -m streamlit run MovieRecommenderSystem.py
+python -m streamlit run app.py
 ```
 
 Open the application in your browser at:
